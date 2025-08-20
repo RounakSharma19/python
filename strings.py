@@ -46,3 +46,10 @@ str3 = "introduction to Python"
 print(str3.capitalize())
 print(str3.find("to"))
 print(str3.index("to"))
+str4 = "introductiontoPython"
+print(str4.isalnum())
+print(str4.isalpha())
+print(str4.islower())
+print(str4.isprintable())
+print(str4.isspace())
+print(str4.istitle ())
